@@ -12,3 +12,7 @@ This is a base design to identify parters of a given organization.
 - Iterate the script for each URL in the imported list.
 - Potentially integrate a crawl function using Firecrawl or tools like Sublist3r to identify likely subdomains for scanning, optimizing token usage.
 
+
+References
+https://docs.firecrawl.dev/api-reference/introduction
+https://github.com/ollama/ollama/blob/main/docs/api.md
